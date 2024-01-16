@@ -1,5 +1,5 @@
 # portfolio-HKRM
-![Alt text for the image](Screenshot_2024-01-16_193351.png)
+![Alt text for the image](a.png)
 
 
 Welcome to my Portfolio!
